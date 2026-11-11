@@ -29,6 +29,7 @@
   - [GO - Custom Errors](./go_custom_errors.md)
   - [GO - Goroutines](./go_goroutines.md)
   - [GO - Channels](./go_channels.md)
+  - [GO - Channel Buffering](./go_channel_buffering.md)
 
 ## GO Standard Libraries
 
